@@ -1,2 +1,2 @@
 # Chat-Application-
-This is a Chat Application designed using Java Swing.
+This is a Chat Application ie. server-client application designed using Socket programming and JavaFx.
